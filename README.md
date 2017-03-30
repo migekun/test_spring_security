@@ -1,7 +1,7 @@
 # test_spring_security
 
-@EnableWebSecurity
-configure(HttpSecurity http)
-AuthenticationManagerBuilder
+@EnableWebSecurity<br/>
+configure(HttpSecurity http)<br/>
+AuthenticationManagerBuilder<br/>
 @AuthenticationPrincipal User user
 
